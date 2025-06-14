@@ -32,7 +32,7 @@ Each microservice is containerized using a **multi-stage Dockerfile** for optimi
 
 ```bash
 # Clone the repo
-git clone https://github.com/Swapno963/Microservice-with-FastAPI.git
+git clone https://github.com/ManavLohabade/Microservice-with-FastAPI.git
 cd Microservice-with-FastAPI
 
 # Build and start all services
